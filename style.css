@@ -20,7 +20,7 @@ h3{
 }
 .inharit-div{
     width: 50%; 
-    margin-top: 30px;
+    margin-bottom: 40px;
     padding-left: 5%;
 }
 .inharit-div img{
@@ -82,9 +82,27 @@ h3{
 footer{
     background-color: black;
     text-align: center;
-    padding: 2%;
+    padding: 1%;
 }
 
 .foot {
-    color: rgb(124, 128, 128);
+    color:rgb(160, 160, 160);
 } 
+
+.navbar {
+    overflow: hidden;
+
+    background-image: linear-gradient(rgb(226, 102, 20),rgb(145, 11, 11)
+    );
+  }
+.navbar a {
+    display:inline-block;
+    font-size: 20x;
+    color: rgb(45, 171, 255);
+    text-align: center;
+    padding: 16px 20px;
+    text-decoration: none;
+    font-size: 24px;
+    
+  }
+
