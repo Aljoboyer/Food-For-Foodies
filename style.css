@@ -1,0 +1,90 @@
+body{
+    
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    text-align: center;
+    font-size: 40;
+}
+.spanclass{
+    color: rgb(209, 86, 4);
+}
+.flex-container{
+    display: flex;
+}
+.inharit-div{
+    width: 50%; 
+    margin-top: 30px;
+    padding-left: 5%;
+}
+.inharit-div img{
+    width: 85%;
+}
+.anchor-button{
+    text-decoration: none;
+    background: linear-gradient(45deg, rgb(150, 45, 4), rgb(255, 50, 14));
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.bg-banner{
+        background-image: url(images/7.png);
+        background-repeat: no-repeat;
+        background-position: center;   
+}
+#sectwo-id-one{
+    padding: 10%;
+}
+#sectwo-id-one img{
+    width: 130%;
+}
+.bg-banner-two{
+    background-image: url(images/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1500px 500px;
+}
+.third-sec{
+    width: 20%;
+    padding: 5%;
+}
+
+.third-sec-div img{
+    
+    width: 250px;
+    border-radius: 10%;
+}
+.non-flex h2{
+    text-align: center;
+}
+.third-pa{
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: center;
+}
+
+#third-sec-id{
+    box-shadow: 5px 5px 30px rgb(114, 115, 116);
+    border: rgb(172, 247, 247) solid;
+    border-radius: 10%;
+    margin-left: 30%;
+    background-image: linear-gradient(rgb(255, 255, 255),rgb(163, 214, 235));
+    padding: 10%;
+    text-align: justify;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    padding: 2%;
+}
+
+.foot {
+    color: rgb(124, 128, 128);
+} 
